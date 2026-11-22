@@ -1,5 +1,9 @@
 # Token Radar — model radar-2
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/padit8035-glitch/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/padit8035-glitch/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A token launch radar for make.fun's `token-radar-01` bounty. It reads a sealed
 DefiLlama snapshot of 758 protocols, ranks every rankable pre-token protocol by
 an implied value, and hands in a dashboard a reader can use: a ranked board, a
@@ -40,3 +44,7 @@ directory, and runs twice with the same bytes.
 - `vendor/makefun-board.ts` — make.fun's dossier library, byte for byte.
 - `dashboard/` — the static page (no network, no framework).
 - `screenshots/` — the board, a detail view and a filtered view.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=tvfbjxfd&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
